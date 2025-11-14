@@ -1,13 +1,4 @@
 
-
-## 1. Setup Instructions
-
-### Clone the Repository
-```sh
-git clone https://github.com/<your-username>/frontend-technical.git
-cd frontend-technical
-````
-
 ### Install & Run Backend
 
 ```sh
@@ -19,7 +10,7 @@ Backend runs at: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
-## 2. Frontend Setup
+##  Frontend Setup
 
 ```sh
 cd frontend
@@ -31,7 +22,7 @@ Frontend runs at: **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## 3. Features Implemented
+##  Features Implemented
 
 * React + TypeScript
 * Redux Toolkit authentication
