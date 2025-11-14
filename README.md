@@ -1,11 +1,4 @@
-Here is the **Markdown (.md) code** for the short README — ready to copy and paste into `README.md`:
 
-````md
-# Frontend Technical Assignment
-
-This repository contains the backend provided by Aieera and my completed frontend built using **React, TypeScript, Redux Toolkit, and Vite**.
-
----
 
 ## 1. Setup Instructions
 
